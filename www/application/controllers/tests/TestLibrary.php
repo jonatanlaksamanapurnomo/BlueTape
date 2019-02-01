@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class TestLibrary extends CI_Controller {
 
-    const ENABLE_COVERAGE = true; // Requires xdebug
+//    const ENABLE_COVERAGE = true; // Requires xdebug
 
     private $coverage;
 
@@ -12,26 +12,17 @@ class TestLibrary extends CI_Controller {
         parent::__construct();
         $this->load->library('unit_test');
         $this->unit->use_strict(TRUE);
-
-        if (self::ENABLE_COVERAGE) {
-            $this->coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
-            $this->coverage->filter()->addDirectoryToWhitelist('application/controllers');
-            $this->coverage->filter()->removeDirectoryFromWhitelist('application/controllers/tests');
-            $this->coverage->filter()->addDirectoryToWhitelist('application/libraries');
-            $this->coverage->filter()->addDirectoryToWhitelist('application/models');
-            $this->coverage->filter()->addDirectoryToWhitelist('application/views');
-            $this->coverage->start('UnitTests');
-        }
-
+        $this->coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+        $this->coverage->filter()->addDirectoryToWhitelist('application/libraries');
+        $this->coverage->start('UnitTests');
         $this->load->library('BlueTape');
     }
 
     private function report() {
-        if (self::ENABLE_COVERAGE) {
-            $this->coverage->stop();        
-            $writer = new  \SebastianBergmann\CodeCoverage\Report\Html\Facade;
-            $writer->process($this->coverage, '../reports/code-coverage');
-        }
+        $this->coverage->stop();
+        $writer = new  \SebastianBergmann\CodeCoverage\Report\Html\Facade;
+        $writer->process($this->coverage, '../reports/code-coverage');
+
 
         // Generate Test Report HTML
         file_put_contents('../reports/test_report.html', $this->unit->report());
@@ -76,6 +67,8 @@ class TestLibrary extends CI_Controller {
         $this->testGetSemester();
         // $this->testGetName();
         $this->testGetSemesterSimple();
+        $this->testSmesterCodeToString();
+//        $this->testDateTimeToHumanFormat();
 
 
         $this->report();
@@ -111,6 +104,7 @@ class TestLibrary extends CI_Controller {
     
         );
         }
+//still bugged
 
     function testGetName(){
         $this->unit->run(
@@ -118,6 +112,20 @@ class TestLibrary extends CI_Controller {
     
         );
         }
+
+        function  testSmesterCodeToString(){
+            $this->unit->run(
+                $this->bluetape->semesterCodeToString("141"),"Ganjil 2014/2015" , __FUNCTION__ , "mengubah smester code menjadi string"
+            );
+
+        }
+        function  testDateTimeToHumanFormat(){
+        $this->unit->run(
+            $this->bluetape->dbDateTimeToReadableDate("2008-11-11 13:23:44"),"Selasa, 11 November 2008 ",__FUNCTION__,"mengubah format datetime pada database menjadi sesuatu yang bisa di baca manusia"
+        );
+        }
+
+
 
 
 
