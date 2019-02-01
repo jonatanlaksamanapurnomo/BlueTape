@@ -3,80 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d8e2591-fa8c-4cc1-aa6a-ff9af2d42a65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/Auth.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/Auth.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/EntriJadwalDosen.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/EntriJadwalDosen.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/LihatJadwalDosen.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/LihatJadwalDosen.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/Migrate.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/Migrate.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/PerubahanKuliahManage.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/PerubahanKuliahManage.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/PerubahanKuliahRequest.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/PerubahanKuliahRequest.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/TranskripManage.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/TranskripManage.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/TranskripRequest.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/TranskripRequest.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/controllers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/controllers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/libraries/BlueTape.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/libraries/BlueTape.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/libraries/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/libraries/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/libraries/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/libraries/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/Auth_model.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/Auth_model.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/Email_model.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/Email_model.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/JadwalDosen_model.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/JadwalDosen_model.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/PerubahanKuliah_model.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/PerubahanKuliah_model.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/Transkrip_model.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/Transkrip_model.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/models/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/EntriJadwalDosen/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/LihatJadwalDosen/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/email.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/email.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/printview.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahManage/printview.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/email.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/email.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/PerubahanKuliahRequest/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/email.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/email.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripManage/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/email.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/email.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/main.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/TranskripRequest/main.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/auth/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/auth/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/auth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/auth/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/auth/login.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/auth/login.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_404.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_404.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_db.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_db.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_exception.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_exception.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_general.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_general.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_php.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/error_php.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/cli/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_404.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_404.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_db.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_db.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_exception.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_exception.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_general.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_general.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_php.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/error_php.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/errors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/errors/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/flashmessage.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/flashmessage.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/head_loggedin.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/head_loggedin.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/script_foundation.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/script_foundation.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/code-coverage/views/templates/topbar_loggedin.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/code-coverage/views/templates/topbar_loggedin.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/test_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/test_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,15 +17,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/application/models/Auth_model.php">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1343">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="459">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -202,6 +136,7 @@
         <option value="$PROJECT_DIR$/www/application/controllers/tests/TestUnitTests.php" />
         <option value="$PROJECT_DIR$/www/application/libraries/BlueTape.php" />
         <option value="$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -324,12 +259,12 @@
       <workItem from="1548858510573" duration="1511000" />
       <workItem from="1548860386141" duration="847000" />
       <workItem from="1548989298996" duration="1406000" />
-      <workItem from="1548990726823" duration="1240000" />
+      <workItem from="1548990726823" duration="1983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23436000" />
+    <option name="totallyTimeSpent" value="24179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -429,13 +364,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travis.yml" />
     <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/TestUnitTests.php" />
-    <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/coba.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="34" selection-start-line="33" selection-start-column="9" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/application/models/Auth_model.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -443,13 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="73" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -495,10 +416,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/coba.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="22" column="34" selection-start-line="33" selection-start-column="9" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/application/controllers/tests/TestLibrary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1343">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
