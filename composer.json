@@ -4,6 +4,6 @@
         "phpoffice/phpexcel": "^1.8"
     },
     "require-dev": {
-        "phpunit/php-code-coverage": "^6.1"
+        "phpunit/php-code-coverage": "^7.0"
     }
 }

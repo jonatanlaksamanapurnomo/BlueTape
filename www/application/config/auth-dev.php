@@ -3,16 +3,16 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $config['domain'] = 'http://localhost';
-$config['google-clientid'] = "766749465484-lavk4oce3ta4hu2p1piekjtug02npkq0.apps.googleusercontent.com";
-$config['google-clientsecret'] = "65xdbPMcfA26hzXbCDuQnD7X";
+$config['google-clientid'] = 'FILLME';
+$config['google-clientsecret'] = 'FILLME';
 $config['google-redirecturi'] = $config['domain'] . '/auth/oauth2callback';
 
 $config['email-config'] = Array(
-    'protocol' => NULL,
-    'smtp_host' => NULL,
-    'smtp_port' => NULL,
-    'smtp_user' => NULL,
-    'smtp_pass' => NULL,
-    'mailtype' => NULL,
-    'charset' => NULL
+    'protocol' => 'smtp',
+    'smtp_host' => 'ssl://smtp.googlemail.com',
+    'smtp_port' => 465,
+    'smtp_user' => 'xxx',
+    'smtp_pass' => 'xxx',
+    'mailtype' => 'html',
+    'charset' => 'iso-8859-1'
 );

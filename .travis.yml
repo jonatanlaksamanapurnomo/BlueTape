@@ -1,7 +1,4 @@
-
 language: php
 php:
-  - '7.1'
-before_script:
-  cp www/application/config/auth-dev.php www/application/config/auth.php
+  - '7.2'
 script: php www/index.php tests TestLibrary

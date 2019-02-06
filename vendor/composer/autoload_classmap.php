@@ -181,6 +181,7 @@ return array(
     'SebastianBergmann\\CodeCoverage\\CodeCoverage' => $vendorDir . '/phpunit/php-code-coverage/src/CodeCoverage.php',
     'SebastianBergmann\\CodeCoverage\\CoveredCodeNotExecutedException' => $vendorDir . '/phpunit/php-code-coverage/src/Exception/CoveredCodeNotExecutedException.php',
     'SebastianBergmann\\CodeCoverage\\Driver\\Driver' => $vendorDir . '/phpunit/php-code-coverage/src/Driver/Driver.php',
+    'SebastianBergmann\\CodeCoverage\\Driver\\PCOV' => $vendorDir . '/phpunit/php-code-coverage/src/Driver/PCOV.php',
     'SebastianBergmann\\CodeCoverage\\Driver\\PHPDBG' => $vendorDir . '/phpunit/php-code-coverage/src/Driver/PHPDBG.php',
     'SebastianBergmann\\CodeCoverage\\Driver\\Xdebug' => $vendorDir . '/phpunit/php-code-coverage/src/Driver/Xdebug.php',
     'SebastianBergmann\\CodeCoverage\\Exception' => $vendorDir . '/phpunit/php-code-coverage/src/Exception/Exception.php',
