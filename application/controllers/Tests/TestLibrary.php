@@ -11,18 +11,18 @@ class TestLibrary extends CI_Controller {
     public function __construct() {
         parent::__construct();
         $this->load->library('unit_test');
-        $this->unit->use_strict(TRUE);
-        $this->coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
-        $this->coverage->filter()->addDirectoryToWhitelist('application/libraries');
-        $this->coverage->start('UnitTests');
+//        $this->unit->use_strict(TRUE);
+//        $this->coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+//        $this->coverage->filter()->addDirectoryToWhitelist('application/libraries');
+//        $this->coverage->start('UnitTests');
         $this->load->library('BlueTape');
     }
 
 
     private function report() {
-        $this->coverage->stop();
-        $writer = new  \SebastianBergmann\CodeCoverage\Report\Html\Facade;
-        $writer->process($this->coverage, '../www/application/views/TestDocuments/code-coverage');
+//        $this->coverage->stop();
+//        $writer = new  \SebastianBergmann\CodeCoverage\Report\Html\Facade;
+//        $writer->process($this->coverage, '../www/application/views/TestDocuments/code-coverage');
         file_put_contents('../www/application/views/TestDocuments/test_Library.html', $this->unit->report());
         file_put_contents('../www/application/views/TestDocuments/test_Library.php', $this->unit->report());
 
